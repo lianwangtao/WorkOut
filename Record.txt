@@ -1,0 +1,24 @@
+Date: Thu Jul 23 14:21:33 CDT 2015
+Bench Press for 1 sets of 1 reps on weight: 35 
+The Max on Bench Press is 135
+Shoudler Press for 5 sets of 10 on weight35
+Body weight is 135
+-----------------------------------------------------------------------
+Date: Thu Jul 23 14:42:30 CDT 2015
+Bench Press for 0 sets of 0 reps on weight: 
+The Max on Bench Press is 0
+Shoudler Press for 5 sets of 10 on weight0
+Body weight is 0
+-----------------------------------------------------------------------
+Date: Thu Jul 23 14:43:37 CDT 2015
+Bench Press for 0 sets of 0 reps on weight: 
+The Max on Bench Press is 0
+Shoudler Press for 5 sets of 10 on weight0
+Body weight is 0
+-----------------------------------------------------------------------
+Date: Thu Jul 23 15:04:24 CDT 2015
+Bench Press for 1 sets of 12 reps on weight: 12 
+The Max on Bench Press is 23
+Shoulder Press for 5 sets of 10 on weight43
+Body weight is 21
+-----------------------------------------------------------------------
